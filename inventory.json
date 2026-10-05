@@ -1,0 +1,79 @@
+{
+  "dealership": "Tacoma Dodge Chrysler Jeep Ram",
+  "generated_at": "2026-10-04T22:45:26",
+  "vehicle_count": 5,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "New 2026 Jeep Wrangler Sport S",
+      "vin": "1C4PJXDG3TW256453",
+      "stock": "TW256453",
+      "color": "Black Clearcoat",
+      "trim": "Sport S",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/inventory/e49d97e5b8b2.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4pjxdg3tw256453/2026-jeep-wrangler-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/new/1c4pjxdg3tw256453/2026-jeep-wrangler-sport-utility?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:44:37",
+      "price": 50445.0,
+      "price_currency": "USD",
+      "condition": "unknown"
+    },
+    {
+      "name": "New 2026 Jeep Grand Cherokee Laredo X",
+      "vin": "1C4RJHAG0TC305130",
+      "stock": "TC305130",
+      "color": "Bright White Clearcoat",
+      "trim": "Laredo X",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/inventory/78c65aa6216c.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4rjhag0tc305130/2026-jeep-grand-cherokee-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/new/1c4rjhag0tc305130/2026-jeep-grand-cherokee-sport-utility?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:44:48",
+      "price": 45935.0,
+      "price_currency": "USD",
+      "condition": "unknown"
+    },
+    {
+      "name": "New 2025 Jeep Gladiator Rubicon",
+      "vin": "1C6RJTBG5SL548083",
+      "stock": "SL548083",
+      "color": "Bright White Clearcoat",
+      "trim": "Rubicon",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/inventory/a31cc2a83980.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/new/1c6rjtbg5sl548083/2025-jeep-gladiator-crew-cab-pickup---short-bed",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/new/1c6rjtbg5sl548083/2025-jeep-gladiator-crew-cab-pickup---short-bed?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:44:57",
+      "price": 59300.0,
+      "price_currency": "USD",
+      "condition": "unknown"
+    },
+    {
+      "name": "New 2026 Jeep Compass Limited",
+      "vin": "3C4NJDCN5TT285884",
+      "stock": "TT285884",
+      "color": "Diamond Black Crystal Pearlcoat",
+      "trim": "Limited",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/inventory/884399e2888d.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/new/3c4njdcn5tt285884/2026-jeep-compass-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/new/3c4njdcn5tt285884/2026-jeep-compass-sport-utility?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:45:07",
+      "price": 36150.0,
+      "price_currency": "USD",
+      "condition": "unknown"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo",
+      "vin": "3C4PJMB23TT252401",
+      "stock": "TT252401",
+      "color": "Red Hot Pearlcoat",
+      "trim": "Laredo",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/inventory/fd0ab358af7f.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/new/3c4pjmb23tt252401/2026-jeep-cherokee-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/new/3c4pjmb23tt252401/2026-jeep-cherokee-sport-utility?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T22:45:16",
+      "price": 39995.0,
+      "price_currency": "USD",
+      "condition": "unknown"
+    }
+  ]
+}
