@@ -1,7 +1,7 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-10-06T00:27:53",
-  "vehicle_count": 225,
+  "generated_at": "2026-10-06T15:57:16",
+  "vehicle_count": 230,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -84,25 +84,10 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/ccbe64d925ff.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4ajwag7dl602205/2013-jeep-wrangler-convertible",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4ajwag7dl602205/2013-jeep-wrangler-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:54:12",
-      "price": 16530.0,
+      "last_verified": "2026-10-06T15:54:50",
+      "price": 16397.0,
       "price_currency": "USD",
       "odometer_km": 84950,
-      "condition": "used"
-    },
-    {
-      "name": "Used 2020 Jeep Wrangler Sport S",
-      "vin": "1C4GJXAN6LW155264",
-      "stock": "LW155264",
-      "color": "Granite Crystal Metallic Clearcoat",
-      "trim": "Sport S",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/bae5341b14bb.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4gjxan6lw155264/2020-jeep-wrangler-convertible",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4gjxan6lw155264/2020-jeep-wrangler-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:54:21",
-      "price": 27197.0,
-      "price_currency": "USD",
-      "odometer_km": 37692,
       "condition": "used"
     },
     {
@@ -114,7 +99,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/19877c5660c0.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4hjwcg5gl314652/2016-jeep-wrangler-convertible",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4hjwcg5gl314652/2016-jeep-wrangler-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:54:30",
+      "last_verified": "2026-10-06T15:55:00",
       "price": 24748.0,
       "price_currency": "USD",
       "odometer_km": 33071,
@@ -129,8 +114,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/958a7401a7e6.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4hjxdm0pw527758/2023-jeep-wrangler-convertible",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4hjxdm0pw527758/2023-jeep-wrangler-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:54:40",
-      "price": 35535.0,
+      "last_verified": "2026-10-06T15:55:09",
+      "price": 36535.0,
       "price_currency": "USD",
       "odometer_km": 41944,
       "condition": "used"
@@ -144,8 +129,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/a52b8301aa1a.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4hjxfn4nw209497/2022-jeep-wrangler-convertible",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4hjxfn4nw209497/2022-jeep-wrangler-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:54:51",
-      "price": 32558.0,
+      "last_verified": "2026-10-06T15:55:17",
+      "price": 33558.0,
       "price_currency": "USD",
       "odometer_km": 49884,
       "condition": "used"
@@ -159,8 +144,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/8b53ee62feec.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4jjxp65mw676483/2021-jeep-wrangler-4xe-convertible",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4jjxp65mw676483/2021-jeep-wrangler-4xe-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:55:00",
-      "price": 25630.0,
+      "last_verified": "2026-10-06T15:55:27",
+      "price": 26630.0,
       "price_currency": "USD",
       "odometer_km": 60025,
       "condition": "used"
@@ -174,8 +159,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/ffe5bb3924b0.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4pjmcbxjd540899/2018-jeep-cherokee-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4pjmcbxjd540899/2018-jeep-cherokee-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:55:09",
-      "price": 12193.0,
+      "last_verified": "2026-10-06T15:55:37",
+      "price": 12786.0,
       "price_currency": "USD",
       "odometer_km": 92493,
       "condition": "used"
@@ -189,8 +174,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/bd9888aa0d90.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4pjxdn0rw252934/2024-jeep-wrangler-convertible",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4pjxdn0rw252934/2024-jeep-wrangler-convertible?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:55:18",
-      "price": 27733.0,
+      "last_verified": "2026-10-06T15:55:47",
+      "price": 28744.0,
       "price_currency": "USD",
       "odometer_km": 48431,
       "condition": "used"
@@ -204,8 +189,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/d596718d8692.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjdg3rc212850/2024-dodge-durango-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjdg3rc212850/2024-dodge-durango-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:55:26",
-      "price": 26661.0,
+      "last_verified": "2026-10-06T15:55:57",
+      "price": 27661.0,
       "price_currency": "USD",
       "odometer_km": 59119,
       "condition": "used"
@@ -219,7 +204,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/90d3b26b192c.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjdg3sc536421/2025-dodge-durango-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjdg3sc536421/2025-dodge-durango-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:55:35",
+      "last_verified": "2026-10-06T15:56:07",
       "price": 29911.0,
       "price_currency": "USD",
       "odometer_km": 42293,
@@ -234,8 +219,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/5c9fdeb77551.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjdg9lc432310/2020-dodge-durango-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjdg9lc432310/2020-dodge-durango-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:55:45",
-      "price": 18790.0,
+      "last_verified": "2026-10-06T15:56:16",
+      "price": 19790.0,
       "price_currency": "USD",
       "odometer_km": 116394,
       "condition": "used"
@@ -249,8 +234,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/5d98c6b40324.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjeg9nc173657/2022-dodge-durango-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rdjeg9nc173657/2022-dodge-durango-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:55:55",
-      "price": 33523.0,
+      "last_verified": "2026-10-06T15:56:24",
+      "price": 34523.0,
       "price_currency": "USD",
       "odometer_km": 37448,
       "condition": "used"
@@ -264,8 +249,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/82e5838dc974.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjhag8r8535008/2024-jeep-grand-cherokee-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjhag8r8535008/2024-jeep-grand-cherokee-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:56:06",
-      "price": 0.0,
+      "last_verified": "2026-10-06T15:56:35",
+      "price": 24080.0,
       "price_currency": "USD",
       "odometer_km": 77770,
       "condition": "used"
@@ -279,7 +264,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/c9321ba1f15c.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjhbg0pc535948/2023-jeep-grand-cherokee-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjhbg0pc535948/2023-jeep-grand-cherokee-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:56:14",
+      "last_verified": "2026-10-06T15:56:43",
       "price": 29896.0,
       "price_currency": "USD",
       "odometer_km": 54249,
@@ -294,8 +279,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b069787f4293.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjheg0s8750530/2025-jeep-grand-cherokee-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjheg0s8750530/2025-jeep-grand-cherokee-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:56:24",
-      "price": 46558.0,
+      "last_verified": "2026-10-06T15:56:52",
+      "price": 48058.0,
       "price_currency": "USD",
       "odometer_km": 5103,
       "condition": "used"
@@ -309,8 +294,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/bcf0a555fb60.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjkag2p8743248/2023-jeep-grand-cherokee-l-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1c4rjkag2p8743248/2023-jeep-grand-cherokee-l-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T22:56:33",
-      "price": 0.0,
+      "last_verified": "2026-10-06T15:57:11",
+      "price": 31080.0,
       "price_currency": "USD",
       "odometer_km": 47116,
       "condition": "used"
@@ -719,20 +704,6 @@
       "condition": "used"
     },
     {
-      "name": "Used 2018 Ford F-150",
-      "vin": "1FTEW1EG1JKF21802",
-      "stock": "CGD26101A",
-      "color": "Other",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/e619d9dc5f21.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/1ftew1eg1jkf21802/2018-ford-f-150-crew-cab-pickup",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1ftew1eg1jkf21802/2018-ford-f-150-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:01:24",
-      "price": 27233.0,
-      "price_currency": "USD",
-      "odometer_km": 46295,
-      "condition": "used"
-    },
-    {
       "name": "Used 2023 Ford F-150 XLT",
       "vin": "1FTEW1EP6PKF39107",
       "stock": "PKF39107",
@@ -838,6 +809,21 @@
       "condition": "used"
     },
     {
+      "name": "Used 2024 Chevrolet Colorado 4WD Z71",
+      "vin": "1GCPTDEK8R1129392",
+      "stock": "C27949",
+      "color": "Glacier Blue Metallic",
+      "trim": "4WD Z71",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/ea72e8d5c32e.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/1gcptdek8r1129392/2024-chevrolet-colorado-crew-cab-pickup",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1gcptdek8r1129392/2024-chevrolet-colorado-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:50:15",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 5540,
+      "condition": "used"
+    },
+    {
       "name": "Used 2024 Chevrolet Colorado 4WD Trail Boss",
       "vin": "1GCPTEEK1R1160215",
       "stock": "CGD26066A",
@@ -850,21 +836,6 @@
       "price": 36505.0,
       "price_currency": "USD",
       "odometer_km": 23037,
-      "condition": "used"
-    },
-    {
-      "name": "Used 2017 Chevrolet Silverado 1500 LT",
-      "vin": "1GCUKREC0HF201280",
-      "stock": "HF201280",
-      "color": "Deep Ocean Blue Metallic",
-      "trim": "LT",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/1745ac005272.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/1gcukrec0hf201280/2017-chevrolet-silverado-1500-crew-cab-pickup",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1gcukrec0hf201280/2017-chevrolet-silverado-1500-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:02:54",
-      "price": 18108.0,
-      "price_currency": "USD",
-      "odometer_km": 142673,
       "condition": "used"
     },
     {
@@ -1075,6 +1046,20 @@
       "price": 29840.0,
       "price_currency": "USD",
       "odometer_km": 87255,
+      "condition": "used"
+    },
+    {
+      "name": "Used 2017 Nissan Maxima",
+      "vin": "1N4AA6AP6HC375374",
+      "stock": "N260517B",
+      "color": "Storm Blue",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/57a053dee2fb.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/1n4aa6ap6hc375374/2017-nissan-maxima-4dr-car",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/1n4aa6ap6hc375374/2017-nissan-maxima-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:50:36",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 90507,
       "condition": "used"
     },
     {
@@ -1363,6 +1348,21 @@
       "condition": "used"
     },
     {
+      "name": "Used 2021 Dodge Charger Scat Pack",
+      "vin": "2C3CDXGJ1MH581555",
+      "stock": "MH581555",
+      "color": "White Knuckle Clearcoat",
+      "trim": "Scat Pack",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/5ad56525a048.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/2c3cdxgj1mh581555/2021-dodge-charger-4dr-car",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/2c3cdxgj1mh581555/2021-dodge-charger-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:51:06",
+      "price": 39881.0,
+      "price_currency": "USD",
+      "odometer_km": 59100,
+      "condition": "used"
+    },
+    {
       "name": "Used 2023 Dodge Challenger SXT",
       "vin": "2C3CDZAG9PH637965",
       "stock": "CVD26049A",
@@ -1393,6 +1393,21 @@
       "condition": "used"
     },
     {
+      "name": "Used 2018 Chrysler Pacifica Touring L",
+      "vin": "2C4RC1BG3JR144065",
+      "stock": "C26011B",
+      "color": "Billet Silver Metallic Clearcoat",
+      "trim": "Touring L",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/e0e5e7ff9749.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/2c4rc1bg3jr144065/2018-chrysler-pacifica-mini-van,-passenger",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/2c4rc1bg3jr144065/2018-chrysler-pacifica-mini-van,-passenger?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:51:16",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 139176,
+      "condition": "used"
+    },
+    {
       "name": "Used 2024 Chrysler Pacifica Touring L",
       "vin": "2C4RC1BG8RR139391",
       "stock": "C27948",
@@ -1408,36 +1423,6 @@
       "condition": "used"
     },
     {
-      "name": "Used 2023 Chrysler Pacifica Limited",
-      "vin": "2C4RC1GG5PR612945",
-      "stock": "C27893",
-      "color": "Bright White Clearcoat",
-      "trim": "Limited",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/dc905acd220c.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/2c4rc1gg5pr612945/2023-chrysler-pacifica-mini-van,-passenger",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/2c4rc1gg5pr612945/2023-chrysler-pacifica-mini-van,-passenger?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:08:55",
-      "price": 21977.0,
-      "price_currency": "USD",
-      "odometer_km": 64344,
-      "condition": "used"
-    },
-    {
-      "name": "Used 2025 Chrysler Pacifica Select",
-      "vin": "2C4RC3BG3SR526206",
-      "stock": "CVC26011A",
-      "color": "Bright White Clearcoat",
-      "trim": "Select",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/f38d7af39598.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/2c4rc3bg3sr526206/2025-chrysler-pacifica-mini-van,-passenger",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/2c4rc3bg3sr526206/2025-chrysler-pacifica-mini-van,-passenger?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:09:06",
-      "price": 35764.0,
-      "price_currency": "USD",
-      "odometer_km": 17162,
-      "condition": "used"
-    },
-    {
       "name": "Used 2026 Chrysler Pacifica Select",
       "vin": "2C4RC3BG4TR177168",
       "stock": "XC26002",
@@ -1450,6 +1435,20 @@
       "price": 41494.0,
       "price_currency": "USD",
       "odometer_km": 7339,
+      "condition": "used"
+    },
+    {
+      "name": "Used 2011 Ford Flex",
+      "vin": "2FMHK6DT9BBD17101",
+      "stock": "BBD17101",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/56ee7d80384c.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/2fmhk6dt9bbd17101/2011-ford-flex-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/2fmhk6dt9bbd17101/2011-ford-flex-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:51:26",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 118334,
       "condition": "used"
     },
     {
@@ -1543,6 +1542,21 @@
       "condition": "used"
     },
     {
+      "name": "Used 2012 Toyota Corolla S",
+      "vin": "2T1BU4EE1CC852179",
+      "stock": "24593A",
+      "color": "Magnetic Gray Metallic",
+      "trim": "S",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/f85f4e0c43ae.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/2t1bu4ee1cc852179/2012-toyota-corolla-4dr-car",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/2t1bu4ee1cc852179/2012-toyota-corolla-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:51:56",
+      "price": 7987.0,
+      "price_currency": "USD",
+      "odometer_km": 183044,
+      "condition": "used"
+    },
+    {
       "name": "Used 2025 Toyota RAV4 LE",
       "vin": "2T3F1RFV7SC526639",
       "stock": "CG13139",
@@ -1585,6 +1599,21 @@
       "price": 21911.0,
       "price_currency": "USD",
       "odometer_km": 35493,
+      "condition": "used"
+    },
+    {
+      "name": "Used 2025 Jeep Compass Limited",
+      "vin": "3C4NJDCN1ST600727",
+      "stock": "ST600727",
+      "color": "Bright White Clearcoat",
+      "trim": "Limited",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/06810a59003d.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/3c4njdcn1st600727/2025-jeep-compass-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/3c4njdcn1st600727/2025-jeep-compass-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:52:05",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 37749,
       "condition": "used"
     },
     {
@@ -1648,21 +1677,6 @@
       "condition": "used"
     },
     {
-      "name": "Used 2014 RAM 2500 Tradesman",
-      "vin": "3C6TR5CT2EG244667",
-      "stock": "D26004B",
-      "color": "Bright White Clearcoat",
-      "trim": "Tradesman",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/aa9767e98272.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/3c6tr5ct2eg244667/2014-ram-2500-crew-cab-pickup",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/3c6tr5ct2eg244667/2014-ram-2500-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:11:27",
-      "price": 17546.0,
-      "price_currency": "USD",
-      "odometer_km": 141023,
-      "condition": "used"
-    },
-    {
       "name": "Used 2018 RAM 2500 Laramie",
       "vin": "3C6UR5NL4JG185245",
       "stock": "13132A",
@@ -1719,6 +1733,21 @@
       "price": 0.0,
       "price_currency": "USD",
       "odometer_km": 125287,
+      "condition": "used"
+    },
+    {
+      "name": "Used 2025 Ford Maverick XL",
+      "vin": "3FTTW8B38SRB31794",
+      "stock": "C1512631A",
+      "color": "Beige",
+      "trim": "XL",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/7b00a5ec2385.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/3fttw8b38srb31794/2025-ford-maverick-crew-cab-pickup",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/3fttw8b38srb31794/2025-ford-maverick-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:52:34",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 15991,
       "condition": "used"
     },
     {
@@ -2232,6 +2261,36 @@
       "condition": "used"
     },
     {
+      "name": "Used 2013 Honda CR-V LX",
+      "vin": "5J6RM3H38DL006655",
+      "stock": "13130A",
+      "color": "Other",
+      "trim": "LX",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/d0c64c21f92c.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/5j6rm3h38dl006655/2013-honda-cr-v-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5j6rm3h38dl006655/2013-honda-cr-v-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:53:04",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 190224,
+      "condition": "used"
+    },
+    {
+      "name": "Used 2022 Acura MDX w/A-Spec Package",
+      "vin": "5J8YE1H0XNL804196",
+      "stock": "13141",
+      "color": "Black",
+      "trim": "w/A-Spec Package",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/f232f21ae45a.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/5j8ye1h0xnl804196/2022-acura-mdx-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5j8ye1h0xnl804196/2022-acura-mdx-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:53:15",
+      "price": 40680.0,
+      "price_currency": "USD",
+      "odometer_km": 30924,
+      "condition": "used"
+    },
+    {
       "name": "Used 2016 Nissan Rogue SL",
       "vin": "5N1AT2MV0GC876701",
       "stock": "GC876701",
@@ -2442,6 +2501,21 @@
       "condition": "used"
     },
     {
+      "name": "Used 2024 Toyota Sienna LE",
+      "vin": "5TDGSKFC2RS131561",
+      "stock": "CG13142",
+      "color": "Black",
+      "trim": "LE",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b542e8bcbcdf.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/5tdgskfc2rs131561/2024-toyota-sienna-mini-van,-passenger",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5tdgskfc2rs131561/2024-toyota-sienna-mini-van,-passenger?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:53:38",
+      "price": 47633.0,
+      "price_currency": "USD",
+      "odometer_km": 20343,
+      "condition": "used"
+    },
+    {
       "name": "Used 2007 Toyota Tacoma Base",
       "vin": "5TEUU42N87Z343364",
       "stock": "N260480A",
@@ -2532,18 +2606,17 @@
       "condition": "used"
     },
     {
-      "name": "Used 2021 Toyota Corolla LE",
-      "vin": "5YFEPMAE5MP248033",
-      "stock": "24593",
-      "color": "Blueprint",
-      "trim": "LE",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/67a662bbfa1f.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/5yfepmae5mp248033/2021-toyota-corolla-4dr-car",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5yfepmae5mp248033/2021-toyota-corolla-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:20:46",
-      "price": 17823.0,
+      "name": "Used 2012 Toyota Tundra 4WD Truck",
+      "vin": "5TFUW5F12CX248582",
+      "stock": "CGD26101B",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b1ce42cf182d.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/5tfuw5f12cx248582/2012-toyota-tundra-4wd-truck-crew-cab-pickup",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/5tfuw5f12cx248582/2012-toyota-tundra-4wd-truck-crew-cab-pickup?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:53:49",
+      "price": 0.0,
       "price_currency": "USD",
-      "odometer_km": 68062,
+      "odometer_km": 217372,
       "condition": "used"
     },
     {
@@ -2607,21 +2680,6 @@
       "condition": "used"
     },
     {
-      "name": "Used 2022 Subaru Crosstrek Premium",
-      "vin": "JF2GTAEC2NH225318",
-      "stock": "CG13130",
-      "color": "Crystal Black Silica",
-      "trim": "Premium",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/21471937d2a7.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/jf2gtaec2nh225318/2022-subaru-crosstrek-sport-utility",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/jf2gtaec2nh225318/2022-subaru-crosstrek-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:21:36",
-      "price": 25397.0,
-      "price_currency": "USD",
-      "odometer_km": 38485,
-      "condition": "used"
-    },
-    {
       "name": "Used 2021 Subaru Forester Premium",
       "vin": "JF2SKAFC4MH488436",
       "stock": "CG13138",
@@ -2664,21 +2722,6 @@
       "price": 25444.0,
       "price_currency": "USD",
       "odometer_km": 22006,
-      "condition": "used"
-    },
-    {
-      "name": "Used 2024 Mazda CX-5 2.5 S Carbon Edition",
-      "vin": "JM3KFBCL9R0517617",
-      "stock": "R0517617",
-      "color": "Polymetal Gray Metallic",
-      "trim": "2.5 S Carbon Edition",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/f85912238a9e.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/jm3kfbcl9r0517617/2024-mazda-cx-5-sport-utility",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/jm3kfbcl9r0517617/2024-mazda-cx-5-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:22:15",
-      "price": 26994.0,
-      "price_currency": "USD",
-      "odometer_km": 41584,
       "condition": "used"
     },
     {
@@ -2817,18 +2860,18 @@
       "condition": "used"
     },
     {
-      "name": "Used 2019 INFINITI Q50 RED SPORT 400",
-      "vin": "JN1FV7AR5KM801118",
-      "stock": "N260517A",
-      "color": "Iridium Blue",
-      "trim": "RED SPORT 400",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/85b34a1a9808.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/jn1fv7ar5km801118/2019-infiniti-q50-4dr-car",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/jn1fv7ar5km801118/2019-infiniti-q50-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:23:49",
-      "price": 26586.0,
+      "name": "Used 2012 Nissan Rogue SV",
+      "vin": "JN8AS5MV7CW398914",
+      "stock": "N260425A",
+      "color": "Frosted Steel",
+      "trim": "SV",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/d56f123e7704.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/jn8as5mv7cw398914/2012-nissan-rogue-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/jn8as5mv7cw398914/2012-nissan-rogue-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:54:00",
+      "price": 0.0,
       "price_currency": "USD",
-      "odometer_km": 53755,
+      "odometer_km": 65486,
       "condition": "used"
     },
     {
@@ -2918,21 +2961,6 @@
       "price": 21788.0,
       "price_currency": "USD",
       "odometer_km": 40152,
-      "condition": "used"
-    },
-    {
-      "name": "Used 2020 Hyundai Elantra SEL",
-      "vin": "KMHD84LF7LU947398",
-      "stock": "N260625A",
-      "color": "Phantom Black",
-      "trim": "SEL",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/7ddbe73f825d.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/used/kmhd84lf7lu947398/2020-hyundai-elantra-4dr-car",
-      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/kmhd84lf7lu947398/2020-hyundai-elantra-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:26:35",
-      "price": 17121.0,
-      "price_currency": "USD",
-      "odometer_km": 14669,
       "condition": "used"
     },
     {
@@ -3041,6 +3069,36 @@
       "condition": "used"
     },
     {
+      "name": "Used 2001 Mercedes-Benz E-Class E 320",
+      "vin": "WDBJF65J01B300438",
+      "stock": "N260151A",
+      "color": "Other",
+      "trim": "E 320",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/2edd2093b4dd.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/wdbjf65j01b300438/2001-mercedes-benz-e-class-4dr-car",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/wdbjf65j01b300438/2001-mercedes-benz-e-class-4dr-car?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:54:08",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 258918,
+      "condition": "used"
+    },
+    {
+      "name": "Used 2004 Mercedes-Benz E-Class 3.2L",
+      "vin": "WDBUH65J54A476306",
+      "stock": "4A476306",
+      "color": "Gold",
+      "trim": "3.2L",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/20cdae9661e5.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/wdbuh65j54a476306/2004-mercedes-benz-e-class-station-wagon",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/wdbuh65j54a476306/2004-mercedes-benz-e-class-station-wagon?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:54:18",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 171875,
+      "condition": "used"
+    },
+    {
       "name": "Used 2019 Mercedes-Benz CLS CLS 450",
       "vin": "WDD2J5KB3KA028833",
       "stock": "CG13064A",
@@ -3068,6 +3126,21 @@
       "price": 12448.0,
       "price_currency": "USD",
       "odometer_km": 70436,
+      "condition": "used"
+    },
+    {
+      "name": "Used 2017 Jeep Renegade Latitude",
+      "vin": "ZACCJBBB1HPG59246",
+      "stock": "HPG59246",
+      "color": "Black",
+      "trim": "Latitude",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b2d0635f9d8f.html",
+      "source_url": "https://www.tacomadodge.com/viewdetails/used/zaccjbbb1hpg59246/2017-jeep-renegade-sport-utility",
+      "dealer_url": "https://www.tacomadodge.com/viewdetails/used/zaccjbbb1hpg59246/2017-jeep-renegade-sport-utility?type=cash&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:54:41",
+      "price": 0.0,
+      "price_currency": "USD",
+      "odometer_km": 113432,
       "condition": "used"
     },
     {
