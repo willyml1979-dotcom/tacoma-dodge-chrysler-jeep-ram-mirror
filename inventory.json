@@ -1,6 +1,6 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-10-06T15:57:16",
+  "generated_at": "2026-10-07T00:34:54",
   "vehicle_count": 230,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -3174,16 +3174,16 @@
       "condition": "used"
     },
     {
-      "name": "New 2026 Chrysler Pacifica Select",
-      "vin": "2C4RC3BGXTR184349",
-      "stock": "TR184349",
-      "color": "Bright White Clearcoat",
+      "name": "New 2027 Chrysler Pacifica Select",
+      "vin": "2C4RC1BG6VR558219",
+      "stock": "VR558219",
+      "color": "Hydro Blue Pearlcoat",
       "trim": "Select",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/3d084512570e.html",
-      "source_url": "https://www.tacomadodge.com/viewdetails/new/2c4rc3bgxtr184349/2026-chrysler-pacifica-mini-van,-passenger",
+      "source_url": "https://www.tacomadodge.com/viewdetails/new/2c4rc1bg6vr558219/2027-chrysler-pacifica-mini-van,-passenger",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/chrysler/pacifica?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:24:52",
-      "price": 39230.0,
+      "last_verified": "2026-10-07T00:33:06",
+      "price": 44529.0,
       "price_currency": "USD",
       "condition": "new"
     },
@@ -3196,7 +3196,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/4f957a33b42a.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/2c3cdbck5sr537177/2025-dodge-charger-daytona-2dr-car",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/dodge/charger-daytona?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:25:03",
+      "last_verified": "2026-10-07T00:33:14",
       "price": 45490.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3210,7 +3210,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/7db5aae4e925.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/2c3cdanp6tr280082/2026-dodge-charger-4dr-car",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/dodge/charger?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:25:15",
+      "last_verified": "2026-10-07T00:33:23",
       "price": 47480.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3224,7 +3224,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/dcbcf0fc6704.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4sdjct5tc295060/2026-dodge-durango-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/dodge/durango?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:25:26",
+      "last_verified": "2026-10-07T00:33:33",
       "price": 44595.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3238,8 +3238,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/c65c871651a0.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/3c4pjmb21tt252400/2026-jeep-cherokee-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/cherokee?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:25:37",
-      "price": 32495.0,
+      "last_verified": "2026-10-07T00:33:42",
+      "price": 34495.0,
       "price_currency": "USD",
       "condition": "new"
     },
@@ -3252,8 +3252,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/e75687398470.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/3c4njdbn7tt279019/2026-jeep-compass-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/compass?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:25:46",
-      "price": 30955.0,
+      "last_verified": "2026-10-07T00:33:51",
+      "price": 31955.0,
       "price_currency": "USD",
       "condition": "new"
     },
@@ -3266,7 +3266,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/d58b01397d9b.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/1c6rjtag1tl189219/2026-jeep-gladiator-crew-cab-pickup",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/gladiator?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:25:55",
+      "last_verified": "2026-10-07T00:34:00",
       "price": 36498.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3280,8 +3280,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/6878ff651c7f.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4rjkag8t8599568/2026-jeep-grand-cherokee-l-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/grand-cherokee-l?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:26:04",
-      "price": 38393.0,
+      "last_verified": "2026-10-07T00:34:09",
+      "price": 36893.0,
       "price_currency": "USD",
       "condition": "new"
     },
@@ -3294,8 +3294,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/771553d60730.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4rjhbr7tc201895/2026-jeep-grand-cherokee-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/grand-cherokee?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:26:14",
-      "price": 40499.0,
+      "last_verified": "2026-10-07T00:34:18",
+      "price": 38999.0,
       "price_currency": "USD",
       "condition": "new"
     },
@@ -3308,7 +3308,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/c90f5b2e30a5.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4sjsap3ts191418/2026-jeep-grand-wagoneer-l-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/grand-wagoneer-l?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:26:24",
+      "last_verified": "2026-10-07T00:34:28",
       "price": 69980.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3322,7 +3322,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/14b43c2a6d29.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4sjvap6ts196078/2026-jeep-grand-wagoneer-sport-utility",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/grand-wagoneer?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:26:37",
+      "last_verified": "2026-10-07T00:34:39",
       "price": 65490.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3336,8 +3336,8 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/0322e9f0bff6.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/1c4pjxanxtw204949/2026-jeep-wrangler-convertible",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/jeep/wrangler?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:26:49",
-      "price": 34140.0,
+      "last_verified": "2026-10-07T00:34:48",
+      "price": 35640.0,
       "price_currency": "USD",
       "condition": "new"
     },
@@ -3392,7 +3392,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/edc07c6d1df3.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/3c63r3el7tg214126/2026-ram-3500-crew-cab-pickup",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/ram/3500?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:31:29",
+      "last_verified": "2026-10-07T00:32:36",
       "price": 77670.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3406,7 +3406,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/81ddc54d57a2.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/3c7wrnel5tg211004/2026-ram-5500-chassis-cab-crew-cab-chassis-cab",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/ram/5500-chassis-cab?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:31:37",
+      "last_verified": "2026-10-07T00:32:46",
       "price": 73950.0,
       "price_currency": "USD",
       "condition": "new"
@@ -3420,7 +3420,7 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/f7e2396c7a2c.html",
       "source_url": "https://www.tacomadodge.com/viewdetails/new/3c6lrvng0te198202/2026-ram-promaster-cargo-van-mini-van,-cargo",
       "dealer_url": "https://www.tacomadodge.com/inventory/new/ram/promaster-cargo-van?paymenttype=finance&instock=true&intransit=true&inproduction=true&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T23:31:48",
+      "last_verified": "2026-10-07T00:32:57",
       "price": 43960.0,
       "price_currency": "USD",
       "condition": "new"
