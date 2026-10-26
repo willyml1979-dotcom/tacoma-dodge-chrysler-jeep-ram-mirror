@@ -1,6 +1,6 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-10-25T18:08:11",
+  "generated_at": "2026-10-25T22:32:08",
   "vehicle_count": 466,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -458,7 +458,7 @@
       "vin": "1GKKNUL48PZ184274",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/5a54f5998b44.html",
       "condition": "used",
-      "price": 24776.0,
+      "price": 24521.0,
       "price_currency": "USD"
     },
     {
@@ -466,7 +466,7 @@
       "vin": "1GKS2CKJXKR343301",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/c458e505ddc0.html",
       "condition": "used",
-      "price": 32104.0,
+      "price": 40988.0,
       "price_currency": "USD"
     },
     {
@@ -474,7 +474,7 @@
       "vin": "1GKS2JKT1PR401681",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/da916f08dee4.html",
       "condition": "used",
-      "price": 61522.0,
+      "price": 70944.0,
       "price_currency": "USD"
     },
     {
@@ -482,7 +482,7 @@
       "vin": "1GNERGRS9SJ309298",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/16c8b18afcfe.html",
       "condition": "used",
-      "price": 39733.0,
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -498,7 +498,7 @@
       "vin": "1GNEVJKS5RJ228635",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/53d514a84e05.html",
       "condition": "used",
-      "price": 42692.0,
+      "price": 52692.0,
       "price_currency": "USD"
     },
     {
@@ -506,7 +506,7 @@
       "vin": "1GNSKBKD3NR139189",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/57a6eaeb62c9.html",
       "condition": "used",
-      "price": 44411.0,
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -514,7 +514,7 @@
       "vin": "1GNSKSKD1RR105015",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/596d94518990.html",
       "condition": "used",
-      "price": 49577.0,
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -522,7 +522,7 @@
       "vin": "1GTU9EET3MZ350957",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/cc07e337d5bf.html",
       "condition": "used",
-      "price": 39009.0,
+      "price": 48970.0,
       "price_currency": "USD"
     },
     {
@@ -530,7 +530,7 @@
       "vin": "1GTU9FEL4MZ192179",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/d793f0084a24.html",
       "condition": "used",
-      "price": 42091.0,
+      "price": 51720.0,
       "price_currency": "USD"
     },
     {
@@ -546,7 +546,7 @@
       "vin": "1GTV2NEC1HZ237944",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/253d59156e38.html",
       "condition": "used",
-      "price": 30411.0,
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -618,7 +618,7 @@
       "vin": "1N4BL4DV8MN371340",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/56dd18ece2de.html",
       "condition": "used",
-      "price": 15256.0,
+      "price": 15032.0,
       "price_currency": "USD"
     },
     {
@@ -810,7 +810,7 @@
       "vin": "2HKRW2H98MH648084",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/a14432da005d.html",
       "condition": "used",
-      "price": 0.0,
+      "price": 25684.0,
       "price_currency": "USD"
     },
     {
@@ -834,7 +834,7 @@
       "vin": "2T3RFREV7JW803481",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/c7ff92bcae8c.html",
       "condition": "used",
-      "price": 0.0,
+      "price": 22400.0,
       "price_currency": "USD"
     },
     {
