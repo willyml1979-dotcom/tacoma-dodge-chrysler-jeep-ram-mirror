@@ -1,6 +1,6 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-10-25T22:32:08",
+  "generated_at": "2026-10-26T03:47:41",
   "vehicle_count": 466,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -3226,7 +3226,7 @@
       "vin": "3C4NJDCN9TT268392",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/a5916a259724.html",
       "condition": "new",
-      "price": 40130.0,
+      "price": 40440.0,
       "price_currency": "USD"
     },
     {
