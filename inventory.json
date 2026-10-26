@@ -1,7 +1,7 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-10-26T03:47:41",
-  "vehicle_count": 466,
+  "generated_at": "2026-10-26T07:20:12",
+  "vehicle_count": 460,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -41,14 +41,6 @@
       "name": "Used 2024 Jeep Wrangler Sport S",
       "vin": "1C4PJXDN0RW252934",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/bd9888aa0d90.html",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2025 Dodge Durango GT",
-      "vin": "1C4RDJDG3SC536421",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/90d3b26b192c.html",
       "condition": "used",
       "price": 0.0,
       "price_currency": "USD"
@@ -270,6 +262,14 @@
       "price_currency": "USD"
     },
     {
+      "name": "Used 2016 Ford Focus SE",
+      "vin": "1FADP3K23GL363498",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/38a9a1b42e2a.html",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "USD"
+    },
+    {
       "name": "Used 2022 Ford Escape SE Hybrid",
       "vin": "1FMCU9BZ9NUB08808",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/a37fee6a8ab9.html",
@@ -299,14 +299,6 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/5fcbedf2cf7a.html",
       "condition": "used",
       "price": 35357.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2025 Ford Escape ST-Line Select",
-      "vin": "1FMCU9NA2SUA88242",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/47bccc3ee837.html",
-      "condition": "used",
-      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -374,25 +366,9 @@
       "price_currency": "USD"
     },
     {
-      "name": "Used 2022 Chevrolet Bolt EV 1LT",
-      "vin": "1G1FW6S00N4124612",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/719e966f27cb.html",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
       "name": "Used 2023 Chevrolet Bolt EV 1LT",
       "vin": "1G1FW6S00P4112298",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/a9d2397fa382.html",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2015 Chevrolet Cruze LS",
-      "vin": "1G1PA5SGXF7260000",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/4189d31e4525.html",
       "condition": "used",
       "price": 0.0,
       "price_currency": "USD"
@@ -554,7 +530,7 @@
       "vin": "1GYS4JKJXJR110571",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/ac3097b20eff.html",
       "condition": "used",
-      "price": 27983.0,
+      "price": 27565.0,
       "price_currency": "USD"
     },
     {
@@ -562,7 +538,7 @@
       "vin": "1N4AZ1BV1SC558469",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/5724b135d7b8.html",
       "condition": "used",
-      "price": 16098.0,
+      "price": 15373.0,
       "price_currency": "USD"
     },
     {
@@ -570,7 +546,7 @@
       "vin": "1N4AZ1BV2SC550204",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/35094c935bc2.html",
       "condition": "used",
-      "price": 16098.0,
+      "price": 15239.0,
       "price_currency": "USD"
     },
     {
@@ -578,7 +554,7 @@
       "vin": "1N4AZ1BV6SC558838",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/372f2bfe6272.html",
       "condition": "used",
-      "price": 16098.0,
+      "price": 15309.0,
       "price_currency": "USD"
     },
     {
@@ -586,7 +562,7 @@
       "vin": "1N4AZ1BV8SC562132",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/ba9858ffb6b1.html",
       "condition": "used",
-      "price": 16047.0,
+      "price": 15274.0,
       "price_currency": "USD"
     },
     {
@@ -594,7 +570,7 @@
       "vin": "1N4AZ1BV9SC557294",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/c3bfb83209b8.html",
       "condition": "used",
-      "price": 16098.0,
+      "price": 15151.0,
       "price_currency": "USD"
     },
     {
@@ -602,7 +578,7 @@
       "vin": "1N4AZ1BVXSC562309",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b233bcd366df.html",
       "condition": "used",
-      "price": 16086.0,
+      "price": 15373.0,
       "price_currency": "USD"
     },
     {
@@ -626,7 +602,7 @@
       "vin": "1N4CZ1CV0RC552616",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b52ae1bc4109.html",
       "condition": "used",
-      "price": 20399.0,
+      "price": 19517.0,
       "price_currency": "USD"
     },
     {
@@ -634,7 +610,7 @@
       "vin": "1N4CZ1CV6SC560208",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/29103d59c184.html",
       "condition": "used",
-      "price": 20598.0,
+      "price": 19710.0,
       "price_currency": "USD"
     },
     {
@@ -642,7 +618,7 @@
       "vin": "1N4CZ1CV8RC556848",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/3d60ea9f38dd.html",
       "condition": "used",
-      "price": 20598.0,
+      "price": 19997.0,
       "price_currency": "USD"
     },
     {
@@ -790,14 +766,6 @@
       "price_currency": "USD"
     },
     {
-      "name": "Used 2019 Chevrolet Equinox Premier",
-      "vin": "2GNAXYEX5K6292847",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/2f9b6a897584.html",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
       "name": "Used 2014 Honda CR-V LX",
       "vin": "2HKRM4H34EH621348",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/21a0aedc6341.html",
@@ -906,7 +874,7 @@
       "vin": "3FTTW8B38SRB31794",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/7b00a5ec2385.html",
       "condition": "used",
-      "price": 31511.0,
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -963,14 +931,6 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/3f0b06062ac9.html",
       "condition": "used",
       "price": 19573.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2024 Chevrolet Equinox LT",
-      "vin": "3GNAXUEG2RL349892",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b2af657a9fd9.html",
-      "condition": "used",
-      "price": 24677.0,
       "price_currency": "USD"
     },
     {
@@ -1070,6 +1030,14 @@
       "price_currency": "USD"
     },
     {
+      "name": "Used 2008 Mercedes-Benz M-Class 3.5L",
+      "vin": "4JGBB86E88A346805",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/ff921605670b.html",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "USD"
+    },
+    {
       "name": "Used 2023 Subaru Outback Premium",
       "vin": "4S4BTACC4P3157840",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/5c77c4682994.html",
@@ -1083,14 +1051,6 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/b2d85a9a8e55.html",
       "condition": "used",
       "price": 19084.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2025 Toyota Camry SE",
-      "vin": "4T1DAACK5SU520042",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/4e57abccde72.html",
-      "condition": "used",
-      "price": 41511.0,
       "price_currency": "USD"
     },
     {
@@ -1115,14 +1075,6 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/93e1ade2b7b1.html",
       "condition": "used",
       "price": 42911.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2018 Honda Pilot EX",
-      "vin": "5FNYF6H3XJB032489",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/422bacdfd660.html",
-      "condition": "used",
-      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -1402,7 +1354,7 @@
       "vin": "JN1DF0BB9PM708171",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/e122184b3d9e.html",
       "condition": "used",
-      "price": 0.0,
+      "price": 23323.0,
       "price_currency": "USD"
     },
     {
@@ -1411,6 +1363,14 @@
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/360f9fe20689.html",
       "condition": "used",
       "price": 30176.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2020 Nissan Armada Platinum",
+      "vin": "JN8AY2NC6L9622294",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/bd114ea352a9.html",
+      "condition": "used",
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -1426,7 +1386,7 @@
       "vin": "JN8BT3BB9PW217185",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/f8abb13f9235.html",
       "condition": "used",
-      "price": 0.0,
+      "price": 22947.0,
       "price_currency": "USD"
     },
     {
@@ -1438,25 +1398,9 @@
       "price_currency": "USD"
     },
     {
-      "name": "Used 2025 Chevrolet Trax LT",
-      "vin": "KL77LHEP9SC162220",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/8bfffe5221c2.html",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
       "name": "Used 2022 Chevrolet Trailblazer LT",
       "vin": "KL79MPSL2NB064299",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/fcfd93df4e20.html",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2025 Chevrolet Trailblazer LT",
-      "vin": "KL79MRSL1SB052619",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/50766e457eff.html",
       "condition": "used",
       "price": 0.0,
       "price_currency": "USD"
@@ -1577,6 +1521,14 @@
       "name": "Used 2012 Volkswagen Tiguan",
       "vin": "WVGBV7AX4CW588027",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/909871571991.html",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2011 Volkswagen CC Sport",
+      "vin": "WVWMP7AN3BE729874",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/0b794a63f811.html",
       "condition": "used",
       "price": 0.0,
       "price_currency": "USD"
