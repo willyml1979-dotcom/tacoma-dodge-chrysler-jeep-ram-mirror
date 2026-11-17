@@ -1,6 +1,6 @@
 # Tacoma Dodge Chrysler Jeep Ram
 
-Chrysler dealership in US. AI-readable inventory mirror, about 457 vehicles.
+Chrysler dealership in US. AI-readable inventory mirror, about 442 vehicles.
 
 - Official website: https://www.tacomadodge.com
 - Used vehicles: https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/
