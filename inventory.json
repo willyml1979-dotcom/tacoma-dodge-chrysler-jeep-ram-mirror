@@ -1,6 +1,6 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-11-18T06:46:06",
+  "generated_at": "2026-11-18T09:13:31",
   "vehicle_count": 439,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -36,17 +36,6 @@
       "model": "Mustang GT Premium",
       "condition": "used",
       "price": 20834.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2011 Nissan Armada SL",
-      "vin": "5N1AA0NC1BN602296",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/eed094d71bb5.html",
-      "year": 2011,
-      "make": "Nissan",
-      "model": "Armada SL",
-      "condition": "used",
-      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -200,29 +189,7 @@
       "make": "Nissan",
       "model": "Murano S",
       "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2017 Nissan Rogue S",
-      "vin": "KNMAT2MV1HP557676",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/a5cd34498ee9.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Rogue S",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "Used 2017 RAM 1500 Big Horn",
-      "vin": "1C6RR7LG5HS827658",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/6cfb00ace0ce.html",
-      "year": 2017,
-      "make": "RAM",
-      "model": "1500 Big Horn",
-      "condition": "used",
-      "price": 28980.0,
+      "price": 13614.0,
       "price_currency": "USD"
     },
     {
@@ -413,17 +380,6 @@
       "price_currency": "USD"
     },
     {
-      "name": "Used 2019 Jeep Cherokee Latitude Plus",
-      "vin": "1C4PJMLN4KD288871",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/9742306ccfc5.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Cherokee Latitude Plus",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
       "name": "Used 2019 Jeep Renegade Sport",
       "vin": "ZACNJBAB9KPJ92334",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/fbb694ffdbcd.html",
@@ -497,7 +453,7 @@
       "make": "Dodge",
       "model": "Durango GT Plus",
       "condition": "used",
-      "price": 28991.0,
+      "price": 16642.0,
       "price_currency": "USD"
     },
     {
@@ -783,7 +739,7 @@
       "make": "Nissan",
       "model": "Altima 2.5 SV",
       "condition": "used",
-      "price": 0.0,
+      "price": 18129.0,
       "price_currency": "USD"
     },
     {
@@ -904,7 +860,7 @@
       "make": "Hyundai",
       "model": "Sonata SE",
       "condition": "used",
-      "price": 19313.0,
+      "price": 19365.0,
       "price_currency": "USD"
     },
     {
@@ -915,7 +871,7 @@
       "make": "Jeep",
       "model": "Wrangler Willys",
       "condition": "used",
-      "price": 46535.0,
+      "price": 30898.0,
       "price_currency": "USD"
     },
     {
@@ -1069,7 +1025,7 @@
       "make": "Nissan",
       "model": "ARIYA PLATINUM&#x2B;",
       "condition": "used",
-      "price": 30176.0,
+      "price": 28598.0,
       "price_currency": "USD"
     },
     {
@@ -1080,7 +1036,7 @@
       "make": "Nissan",
       "model": "Rogue SV",
       "condition": "used",
-      "price": 23949.0,
+      "price": 23422.0,
       "price_currency": "USD"
     },
     {
@@ -1113,7 +1069,7 @@
       "make": "BMW",
       "model": "5 Series 530i",
       "condition": "used",
-      "price": 36375.0,
+      "price": 36795.0,
       "price_currency": "USD"
     },
     {
@@ -1212,7 +1168,7 @@
       "make": "Genesis",
       "model": "G70 2.5T",
       "condition": "used",
-      "price": 30059.0,
+      "price": 25273.0,
       "price_currency": "USD"
     },
     {
@@ -1355,7 +1311,7 @@
       "make": "Nissan",
       "model": "ARIYA ENGAGE",
       "condition": "used",
-      "price": 21462.0,
+      "price": 21429.0,
       "price_currency": "USD"
     },
     {
@@ -1487,7 +1443,7 @@
       "make": "BMW",
       "model": "2 Series 228 xDrive",
       "condition": "used",
-      "price": 0.0,
+      "price": 26766.0,
       "price_currency": "USD"
     },
     {
@@ -1553,7 +1509,7 @@
       "make": "Chevrolet",
       "model": "Equinox AWD LT",
       "condition": "used",
-      "price": 0.0,
+      "price": 23744.0,
       "price_currency": "USD"
     },
     {
@@ -1678,6 +1634,28 @@
       "price_currency": "USD"
     },
     {
+      "name": "Used 2025 Ford Escape ST-Line Select",
+      "vin": "1FMCU9NA8SUB32986",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/6cf7b231de5e.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Escape ST-Line Select",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2025 Ford F-150 XLT",
+      "vin": "1FTEW3LPXSKE16983",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/10a184a29468.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150 XLT",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "USD"
+    },
+    {
       "name": "Used 2025 Ford Maverick XL",
       "vin": "3FTTW8B38SRB31794",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/7b00a5ec2385.html",
@@ -1707,7 +1685,7 @@
       "make": "Genesis",
       "model": "GV70 2.5T",
       "condition": "used",
-      "price": 0.0,
+      "price": 29044.0,
       "price_currency": "USD"
     },
     {
@@ -1976,6 +1954,17 @@
     },
     {
       "name": "Used 2025 Nissan Sentra SV",
+      "vin": "3N1AB8CV5SY210044",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/4070942b0366.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Sentra SV",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2025 Nissan Sentra SV",
       "vin": "3N1AB8CV8SY402879",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/a30b2f428b7f.html",
       "year": 2025,
@@ -2092,7 +2081,7 @@
       "make": "Toyota",
       "model": "4Runner SR5",
       "condition": "used",
-      "price": 42135.0,
+      "price": 38071.0,
       "price_currency": "USD"
     },
     {
@@ -3028,6 +3017,17 @@
       "model": "Recon Moab",
       "condition": "new",
       "price": 70255.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2026 Nissan Kicks S",
+      "vin": "3N8AP6BE2TL351466",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/a8e5d2b44304.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Kicks S",
+      "condition": "used",
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
