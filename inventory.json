@@ -1,7 +1,7 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-11-17T07:34:24",
-  "vehicle_count": 442,
+  "generated_at": "2026-11-17T20:39:12",
+  "vehicle_count": 438,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2768,17 +2768,6 @@
     },
     {
       "name": "New 2026 Jeep Gladiator Rubicon",
-      "vin": "1C6RJTBG6TL192499",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/cade62ffd184.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiator Rubicon",
-      "condition": "new",
-      "price": 58685.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "New 2026 Jeep Gladiator Rubicon",
       "vin": "1C6RJTBG9TL192500",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/86805b647587.html",
       "year": 2026,
@@ -3109,17 +3098,6 @@
     },
     {
       "name": "New 2026 RAM 1500 Laramie",
-      "vin": "1C6SRFRP6TN296108",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/eece266f160b.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500 Laramie",
-      "condition": "new",
-      "price": 80275.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Laramie",
       "vin": "1C6SRFRPXTN343186",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/731c268dff3d.html",
       "year": 2026,
@@ -3177,17 +3155,6 @@
       "name": "New 2026 RAM ProMaster Cargo Van Tradesman",
       "vin": "3C6LRVDG5TE185883",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/c575f428497b.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster Cargo Van Tradesman",
-      "condition": "new",
-      "price": 56180.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "New 2026 RAM ProMaster Cargo Van Tradesman",
-      "vin": "3C6LRVDG9TE185885",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/d1053804c0c4.html",
       "year": 2026,
       "make": "RAM",
       "model": "ProMaster Cargo Van Tradesman",
@@ -3616,7 +3583,7 @@
     {
       "name": "New 2027 Jeep Wrangler Sport S",
       "vin": "1C4PJXDG2VW611289",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/14094d937e80.html",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/ab5f8371bedc.html",
       "year": 2027,
       "make": "Jeep",
       "model": "Wrangler Sport S",
@@ -4594,17 +4561,6 @@
     },
     {
       "name": "New 2027 RAM ProMaster Cargo Van Tradesman",
-      "vin": "3C6LRVBG8VE560218",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/e38f706088b8.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "ProMaster Cargo Van Tradesman",
-      "condition": "new",
-      "price": 56215.0,
-      "price_currency": "USD"
-    },
-    {
-      "name": "New 2027 RAM ProMaster Cargo Van Tradesman",
       "vin": "3C6LRVCG5VE560336",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/ccba6d24328a.html",
       "year": 2027,
@@ -4705,7 +4661,7 @@
     {
       "name": "New 2027 RAM 1500 Big Horn",
       "vin": "3C6SRFFP9V4525480",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/67731b427d73.html",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/c4ec7612215f.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500 Big Horn",
@@ -4782,7 +4738,7 @@
     {
       "name": "New 2027 RAM 2500 Big Horn",
       "vin": "3C6UR5DL2VG432933",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/31ea122759b0.html",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/new/ddbb0cb6a821.html",
       "year": 2027,
       "make": "RAM",
       "model": "2500 Big Horn",
