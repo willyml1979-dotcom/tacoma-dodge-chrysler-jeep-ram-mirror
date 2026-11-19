@@ -1,7 +1,7 @@
 {
   "dealership": "Tacoma Dodge Chrysler Jeep Ram",
-  "generated_at": "2026-11-18T15:52:47",
-  "vehicle_count": 439,
+  "generated_at": "2026-11-18T19:38:27",
+  "vehicle_count": 442,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -39,17 +39,6 @@
       "price_currency": "USD"
     },
     {
-      "name": "Used 2011 Nissan Xterra S",
-      "vin": "5N1AN0NW9BC516468",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/78a769b0b8ff.html",
-      "year": 2011,
-      "make": "Nissan",
-      "model": "Xterra S",
-      "condition": "used",
-      "price": 0.0,
-      "price_currency": "USD"
-    },
-    {
       "name": "Used 2012 GMC Sierra 2500HD Denali",
       "vin": "1GT125E82CF155211",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/42dd9f67e028.html",
@@ -68,7 +57,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee Laredo",
       "condition": "used",
-      "price": 0.0,
+      "price": 9203.0,
       "price_currency": "USD"
     },
     {
@@ -94,6 +83,17 @@
       "price_currency": "USD"
     },
     {
+      "name": "Used 2013 Nissan Sentra S",
+      "vin": "3N1AB7AP6DL791844",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/02b1f2e469e7.html",
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Sentra S",
+      "condition": "used",
+      "price": 6734.0,
+      "price_currency": "USD"
+    },
+    {
       "name": "Used 2014 RAM 1500 Express",
       "vin": "3C6RR7KT8EG305382",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/2b5d60131482.html",
@@ -112,7 +112,7 @@
       "make": "RAM",
       "model": "2500 Tradesman",
       "condition": "used",
-      "price": 28546.0,
+      "price": 15008.0,
       "price_currency": "USD"
     },
     {
@@ -123,7 +123,7 @@
       "make": "Chevrolet",
       "model": "Silverado 3500HD Built After Aug 14 High Country",
       "condition": "used",
-      "price": 59753.0,
+      "price": 45634.0,
       "price_currency": "USD"
     },
     {
@@ -146,6 +146,17 @@
       "model": "GL-Class GL 450",
       "condition": "used",
       "price": 13768.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2016 BMW 5 Series 528i xDrive",
+      "vin": "WBA5A7C55GG144676",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/fe2ea7de74d7.html",
+      "year": 2016,
+      "make": "BMW",
+      "model": "5 Series 528i xDrive",
+      "condition": "used",
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -259,17 +270,6 @@
       "price_currency": "USD"
     },
     {
-      "name": "Used 2018 Nissan Pathfinder SV",
-      "vin": "5N1DR2MM9JC653910",
-      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/2ac088b0f13f.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Pathfinder SV",
-      "condition": "used",
-      "price": 10249.0,
-      "price_currency": "USD"
-    },
-    {
       "name": "Used 2018 RAM 2500 Laramie",
       "vin": "3C6UR5NL4JG185245",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/86f384a8ffc7.html",
@@ -310,7 +310,7 @@
       "make": "Toyota",
       "model": "Tacoma TRD Off Road",
       "condition": "used",
-      "price": 46784.0,
+      "price": 33541.0,
       "price_currency": "USD"
     },
     {
@@ -435,6 +435,17 @@
       "price_currency": "USD"
     },
     {
+      "name": "Used 2020 Chevrolet Equinox LT",
+      "vin": "2GNAXUEV0L6131394",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/531ba8d3b165.html",
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox LT",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "USD"
+    },
+    {
       "name": "Used 2020 Chevrolet Silverado 1500 LT",
       "vin": "3GCUYDET7LG451253",
       "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/6b8355003443.html",
@@ -475,7 +486,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 44462.0,
+      "price": 32822.0,
       "price_currency": "USD"
     },
     {
@@ -509,6 +520,17 @@
       "model": "Wrangler Sport S",
       "condition": "used",
       "price": 21249.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2020 Jeep Wrangler Unlimited Sahara",
+      "vin": "1C4HJXEN9LW203953",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/fa53659a5d9b.html",
+      "year": 2020,
+      "make": "Jeep",
+      "model": "Wrangler Unlimited Sahara",
+      "condition": "used",
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -563,7 +585,7 @@
       "make": "Volvo",
       "model": "XC40 Momentum",
       "condition": "used",
-      "price": 29362.0,
+      "price": 16922.0,
       "price_currency": "USD"
     },
     {
@@ -816,7 +838,7 @@
       "make": "Chevrolet",
       "model": "Bolt EV 1LT",
       "condition": "used",
-      "price": 0.0,
+      "price": 16589.0,
       "price_currency": "USD"
     },
     {
@@ -904,7 +926,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee Limited",
       "condition": "used",
-      "price": 27620.0,
+      "price": 25068.0,
       "price_currency": "USD"
     },
     {
@@ -915,7 +937,18 @@
       "make": "Jeep",
       "model": "Grand Cherokee L Altitude",
       "condition": "used",
-      "price": 30497.0,
+      "price": 27842.0,
+      "price_currency": "USD"
+    },
+    {
+      "name": "Used 2023 Jeep Grand Cherokee L Altitude",
+      "vin": "1C4RJKAG7P8825296",
+      "url": "https://willyml1979-dotcom.github.io/tacoma-dodge-chrysler-jeep-ram-mirror/used/376c8b876168.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee L Altitude",
+      "condition": "used",
+      "price": 0.0,
       "price_currency": "USD"
     },
     {
@@ -1146,7 +1179,7 @@
       "make": "Ford",
       "model": "Bronco Black Diamond",
       "condition": "used",
-      "price": 0.0,
+      "price": 39020.0,
       "price_currency": "USD"
     },
     {
@@ -1366,7 +1399,7 @@
       "make": "Polestar",
       "model": "2 Long Range Dual Motor",
       "condition": "used",
-      "price": 0.0,
+      "price": 22999.0,
       "price_currency": "USD"
     },
     {
@@ -1531,7 +1564,7 @@
       "make": "Chevrolet",
       "model": "Equinox AWD LT",
       "condition": "used",
-      "price": 0.0,
+      "price": 26044.0,
       "price_currency": "USD"
     },
     {
@@ -1630,7 +1663,7 @@
       "make": "Ford",
       "model": "Escape ST-Line",
       "condition": "used",
-      "price": 35357.0,
+      "price": 22634.0,
       "price_currency": "USD"
     },
     {
@@ -1718,7 +1751,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee Summit",
       "condition": "used",
-      "price": 55042.0,
+      "price": 46262.0,
       "price_currency": "USD"
     },
     {
@@ -2026,7 +2059,7 @@
       "make": "Toyota",
       "model": "RAV4 Hybrid XLE",
       "condition": "used",
-      "price": 0.0,
+      "price": 34466.0,
       "price_currency": "USD"
     },
     {
